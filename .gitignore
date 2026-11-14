@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+last.txt
+settings.json
+_preview*.png
+.git/
